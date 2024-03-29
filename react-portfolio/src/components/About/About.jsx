@@ -24,8 +24,7 @@ export const About = () => {
                 <div className={styles.aboutItemText}>
                     <h3>UI/UX Designer</h3>
                 <p>
-                I have designed landing pages and have created design
-                systems as well
+                I craft user-centric landing pages that drive conversions and build scalable design systems
                 </p>
                 </div>
                 </li>
