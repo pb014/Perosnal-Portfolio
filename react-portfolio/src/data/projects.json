@@ -4,7 +4,7 @@
       "imageSrc": "projects/Portfolio.png",
       "description": "Explore my interactive portfolio to discover my journey, skills, and accomplishments.",
       "skills": ["HTML", "CSS", "Javascript", "React"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "demo": "port-folio-main-pb.netlify.app",
+      "source": "https://github.com/pb014/Perosnal-Portfolio"
     }
 ]   
